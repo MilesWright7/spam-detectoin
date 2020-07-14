@@ -1,0 +1,14 @@
+Evaluating Logistic Regression Algorithm
+--------------------------------Results--------------------------------
+The accuracy testing data is: 83.27171903881701
+The precision testing data is: 81.45928965017765
+The recall testing data is: 83.27171903881701
+The F1-Score testing data is: 82.35553384679035
+
+Evaluating Decision Tree Algorithm
+--------------------------------Results--------------------------------
+The accuracy testing data is: 85.85951940850278
+The precision testing data is: 86.1487719913043
+The recall testing data is: 85.85951940850278
+The F1-Score testing data is: 86.00390249343954
+
